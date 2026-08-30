@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djverzijl.github.io/snippets-suvh2e/sitemap.xml
